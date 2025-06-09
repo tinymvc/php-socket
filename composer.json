@@ -1,0 +1,11 @@
+{
+    "name": "tinymvc/php-socket",
+    "description": "A Minified Php-Websocket Server and JS Helper Client",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Spark\\PhpSocket\\": "src/"
+        }
+    },
+    "require": {}
+}
